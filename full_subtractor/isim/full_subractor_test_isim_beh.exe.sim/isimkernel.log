@@ -1,0 +1,29 @@
+Command line:
+   full_subractor_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  35837
+
+Fri Feb 21 15:34:53 2025
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 184.246 Meg
+
+ Total Signals          : 14
+ Total Nets             : 9
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 369
+Total Line Count : 23
+
+ Total Simulation Time: 0.01 sec
+
+ Current Memory Usage: 259.748 Meg
+
+Fri Feb 21 15:36:06 2025
+

@@ -1,0 +1,10 @@
+Command line:
+   fourbit_sub_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56303
+
+Fri Feb 21 23:24:14 2025
+
+
+ Elaboration Time: 0.05 sec

@@ -1,0 +1,3 @@
+vhdl isim_temp "full_subtracto_rtl.vhd"
+vhdl isim_temp "fourbit_sub_hs_rtl.vhd"
+vhdl isim_temp "fourbit_sub_test.vhd"

@@ -1,0 +1,15 @@
+V3 7
+FL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_rtl.vhd 2025/02/21.15:23:11 P.20131013
+EN work/full_sub_hf_rtl 1740131600 \
+      FL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/full_sub_hf_rtl/Behavioral 1740131601 \
+      FL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_rtl.vhd \
+      EN work/full_sub_hf_rtl 1740131600 CP half_subtractor_rtl
+FL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/half_subtractor_rtl.vhd 2025/02/21.14:04:28 P.20131013
+EN work/half_subtractor_rtl 1740131598 \
+      FL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/half_subtractor_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/half_subtractor_rtl/Behavioral 1740131599 \
+      FL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/half_subtractor_rtl.vhd \
+      EN work/half_subtractor_rtl 1740131598
