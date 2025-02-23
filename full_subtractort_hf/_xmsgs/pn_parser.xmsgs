@@ -8,10 +8,7 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_rtl.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/ng_pc/Desktop/1300123058/full_subtractort_hf/half_subtractor_rtl.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_test.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

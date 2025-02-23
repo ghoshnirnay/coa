@@ -51,7 +51,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1740134685" xil_pn:in_ck="-6967854465786992452" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1740134685">
+    <transform xil_pn:end_ts="1740292563" xil_pn:in_ck="-6967854465786992452" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1740292563">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="fourbit_sub_hs_rtl.vhd"/>
@@ -70,14 +70,14 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1740134686" xil_pn:in_ck="-6967854465786992452" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1740134686">
+    <transform xil_pn:end_ts="1740292563" xil_pn:in_ck="-6967854465786992452" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1740292563">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="fourbit_sub_hs_rtl.vhd"/>
       <outfile xil_pn:name="fourbit_sub_test.vhd"/>
       <outfile xil_pn:name="full_subtracto_rtl.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1740134688" xil_pn:in_ck="-6967854465786992452" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5269615293866405767" xil_pn:start_ts="1740134686">
+    <transform xil_pn:end_ts="1740292564" xil_pn:in_ck="-6967854465786992452" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5269615293866405767" xil_pn:start_ts="1740292563">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -89,7 +89,7 @@
       <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1740160452" xil_pn:in_ck="241965503661311506" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8050495414146450596" xil_pn:start_ts="1740160452">
+    <transform xil_pn:end_ts="1740292694" xil_pn:in_ck="241965503661311506" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8050495414146450596" xil_pn:start_ts="1740292693">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="fourbit_sub_test_isim_beh.wdb"/>

@@ -268,20 +268,11 @@ LAB21:    goto LAB20;
 
 LAB23:    goto LAB21;
 
-LAB24:    xsi_set_current_line(97, ng0);
-
-LAB30:    *((char **)t1) = &&LAB31;
-    goto LAB1;
+LAB24:    goto LAB2;
 
 LAB25:    goto LAB24;
 
 LAB27:    goto LAB25;
-
-LAB28:    goto LAB2;
-
-LAB29:    goto LAB28;
-
-LAB31:    goto LAB29;
 
 }
 

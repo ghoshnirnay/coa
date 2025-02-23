@@ -150,20 +150,11 @@ LAB13:    goto LAB12;
 
 LAB15:    goto LAB13;
 
-LAB16:    xsi_set_current_line(95, ng0);
-
-LAB22:    *((char **)t1) = &&LAB23;
-    goto LAB1;
+LAB16:    goto LAB2;
 
 LAB17:    goto LAB16;
 
 LAB19:    goto LAB17;
-
-LAB20:    goto LAB2;
-
-LAB21:    goto LAB20;
-
-LAB23:    goto LAB21;
 
 }
 

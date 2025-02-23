@@ -110,7 +110,6 @@ BEGIN
         -- Test case 8: 1 - 1 - 1
         a <= '1'; b <= '1'; c_in <= '1';
         wait for 1 ps;
-      wait;
    end process;
 
 END;

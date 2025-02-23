@@ -326,20 +326,11 @@ LAB29:    goto LAB28;
 
 LAB31:    goto LAB29;
 
-LAB32:    xsi_set_current_line(113, ng0);
-
-LAB38:    *((char **)t1) = &&LAB39;
-    goto LAB1;
+LAB32:    goto LAB2;
 
 LAB33:    goto LAB32;
 
 LAB35:    goto LAB33;
-
-LAB36:    goto LAB2;
-
-LAB37:    goto LAB36;
-
-LAB39:    goto LAB37;
 
 }
 

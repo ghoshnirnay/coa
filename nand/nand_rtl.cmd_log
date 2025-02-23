@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/1300123058/nand/nand_rtl.xst" -ofn "/home/ng_pc/Desktop/1300123058/nand/nand_rtl.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/1300123058/nand/nand_rtl.xst" -ofn "/home/ng_pc/Desktop/1300123058/nand/nand_rtl.syr" 

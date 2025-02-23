@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2025-02-21T23:24:06</DateModified>
+  <DateModified>2025-02-23T12:04:24</DateModified>
   <ModuleName>fourbit_sub_hs_rtl</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/ng_pc/Desktop/1300123058/fourbit_sub_fs/iseconfig/fourbit_sub_hs_rtl.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/ng_pc/Desktop/1300123058/fourbit_sub_fs</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/ng_pc/Desktop/1300123058/fourbit_sub_fs/</ImplementationReportsDirectory>
   <DateInitialized>2025-02-21T23:24:06</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

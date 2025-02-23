@@ -69,6 +69,7 @@
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="half_subtractor_test_stx_beh.prj"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
     <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
@@ -80,7 +81,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1740126997" xil_pn:in_ck="6167385233521974614" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1740126997">
+    <transform xil_pn:end_ts="1740292050" xil_pn:in_ck="6167385233521974614" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1740292050">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="half_subtractor_rtl.vhd"/>
@@ -98,13 +99,13 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1740126999" xil_pn:in_ck="6167385233521974614" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1740126999">
+    <transform xil_pn:end_ts="1740292050" xil_pn:in_ck="6167385233521974614" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1740292050">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="half_subtractor_rtl.vhd"/>
       <outfile xil_pn:name="half_subtractor_test.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1740127001" xil_pn:in_ck="6167385233521974614" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-9136022404833802697" xil_pn:start_ts="1740126999">
+    <transform xil_pn:end_ts="1740292051" xil_pn:in_ck="6167385233521974614" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-9136022404833802697" xil_pn:start_ts="1740292050">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -113,15 +114,17 @@
       <outfile xil_pn:name="half_subtractor_test_beh.prj"/>
       <outfile xil_pn:name="half_subtractor_test_isim_beh.exe"/>
       <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1740127001" xil_pn:in_ck="-9207107751262547023" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="6228047942037469178" xil_pn:start_ts="1740127001">
+    <transform xil_pn:end_ts="1740292052" xil_pn:in_ck="-9207107751262547023" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="6228047942037469178" xil_pn:start_ts="1740292051">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="half_subtractor_test_isim_beh.wdb"/>
       <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
     </transform>
     <transform xil_pn:end_ts="1740126795" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1740126795">
       <status xil_pn:value="SuccessfullyRun"/>

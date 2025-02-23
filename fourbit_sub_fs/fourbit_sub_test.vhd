@@ -94,7 +94,6 @@ BEGIN
       wait for 1 ps;
       
       -- End of test
-      wait;
    end process;
 
 END behavior;

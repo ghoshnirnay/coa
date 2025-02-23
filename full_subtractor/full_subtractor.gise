@@ -53,7 +53,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1740125820" xil_pn:in_ck="-7483251981470823808" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1740125820">
+    <transform xil_pn:end_ts="1740292228" xil_pn:in_ck="-7483251981470823808" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1740292228">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="full_subractor_test.vhd"/>
@@ -71,13 +71,13 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1740125823" xil_pn:in_ck="-7483251981470823808" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1740125823">
+    <transform xil_pn:end_ts="1740292228" xil_pn:in_ck="-7483251981470823808" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1740292228">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="full_subractor_test.vhd"/>
       <outfile xil_pn:name="full_subtracto_rtl.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1740125826" xil_pn:in_ck="-7483251981470823808" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5340836363688323745" xil_pn:start_ts="1740125823">
+    <transform xil_pn:end_ts="1740292229" xil_pn:in_ck="-7483251981470823808" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5340836363688323745" xil_pn:start_ts="1740292228">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -86,9 +86,10 @@
       <outfile xil_pn:name="full_subractor_test_isim_beh.exe"/>
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1740132291" xil_pn:in_ck="3671327675632064277" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3082241877228877886" xil_pn:start_ts="1740132291">
+    <transform xil_pn:end_ts="1740292230" xil_pn:in_ck="3671327675632064277" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3082241877228877886" xil_pn:start_ts="1740292229">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>

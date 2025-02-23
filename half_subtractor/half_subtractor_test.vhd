@@ -87,12 +87,6 @@ BEGIN
         -- Test case 4: 1 - 1
         a <= '1'; b <= '1';
         wait for 1 ps;
-        
-      
-
-      
-
-      wait;
    end process;
 
 END;

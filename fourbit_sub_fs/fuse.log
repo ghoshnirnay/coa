@@ -8,17 +8,17 @@ Parsing VHDL file "/home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_hs_
 Parsing VHDL file "/home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_test.vhd" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 83324 KB
-Fuse CPU Usage: 980 ms
+Fuse Memory Usage: 83428 KB
+Fuse CPU Usage: 1090 ms
 Compiling package standard
 Compiling package std_logic_1164
 Compiling architecture behavioral of entity full_subtracto_rtl [full_subtracto_rtl_default]
 Compiling architecture behavioral of entity fourbit_sub_hs_rtl [fourbit_sub_hs_rtl_default]
 Compiling architecture behavior of entity fourbit_sub_test
 Time Resolution for simulation is 1ps.
-Waiting for 3 sub-compilation(s) to finish...
+Waiting for 1 sub-compilation(s) to finish...
 Compiled 7 VHDL Units
 Built simulation executable /home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_test_isim_beh.exe
-Fuse Memory Usage: 649100 KB
-Fuse CPU Usage: 1000 ms
-GCC CPU Usage: 160 ms
+Fuse Memory Usage: 649108 KB
+Fuse CPU Usage: 1110 ms
+GCC CPU Usage: 260 ms
