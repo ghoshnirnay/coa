@@ -78,13 +78,13 @@
          <ClosedNode>/full_sub_test - behavior |home|ng_pc|Desktop|1300123058|full_subtractort_hf|full_sub_test.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>full_sub_test - behavior (/home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_test.vhd)</SelectedItem>
+         <SelectedItem>full_sub_test - behavior (/home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_test.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000015a000000020000000000000000000000000200000064ffffffff0000008100000003000000020000015a0000000100000003000000000000000100000003</ViewHeaderState>
-      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>full_sub_test - behavior (/home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_test.vhd)</CurrentItem>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001fe000000020000000000000000000000000200000064ffffffff000000810000000300000002000001fe0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>full_sub_test - behavior (/home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_test.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -96,7 +96,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001d2000000010000000100000000000000000000000064ffffffff000000810000000000000001000001d20000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>Design Utilities</CurrentItem>
    </ItemView>

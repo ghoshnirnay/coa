@@ -110,4 +110,4 @@ BEGIN
       wait for 1 ps;
    end process;
 
-END;
+END behavior;

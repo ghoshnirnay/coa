@@ -1,0 +1,5 @@
+vhdtdtfi -lib work fa_rtl.vhd -prj testc -o fa_rtl.spl -module fa_rtl -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 fa_rtl.spl /home/ng_pc/Desktop/1300123058/testc/fa_rtl.sym 
+vhdtdtfi -prj testc -o /home/ng_pc/Desktop/1300123058/testc/fa_rtl.tfi -module fa_rtl -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work fa_rtl.vhd 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/1300123058/testc/fa_rtl.xst" -ofn "/home/ng_pc/Desktop/1300123058/testc/fa_rtl.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/1300123058/testc/fa_rtl.xst" -ofn "/home/ng_pc/Desktop/1300123058/testc/fa_rtl.syr" 

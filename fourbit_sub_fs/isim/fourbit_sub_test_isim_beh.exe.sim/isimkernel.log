@@ -1,13 +1,13 @@
 Command line:
    fourbit_sub_test_isim_beh.exe
      -simmode  gui
-     -simrunnum  1
-     -socket  37139
+     -simrunnum  0
+     -socket  47783
 
-Sun Feb 23 12:08:15 2025
+Wed Feb 26 00:07:34 2025
 
 
- Elaboration Time: 0.01 sec
+ Elaboration Time: 0 sec
 
  Current Memory Usage: 184.087 Meg
 
@@ -21,9 +21,9 @@ Sun Feb 23 12:08:15 2025
  Total Scalar Nets and Variables : 394
 Total Line Count : 37
 
- Total Simulation Time: 6.05 sec
+ Total Simulation Time: 1.85 sec
 
  Current Memory Usage: 259.588 Meg
 
-Sun Feb 23 12:09:57 2025
+Wed Feb 26 00:14:33 2025
 

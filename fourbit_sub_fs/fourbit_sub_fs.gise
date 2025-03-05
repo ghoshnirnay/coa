@@ -89,9 +89,11 @@
       <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1740292694" xil_pn:in_ck="241965503661311506" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8050495414146450596" xil_pn:start_ts="1740292693">
+    <transform xil_pn:end_ts="1740508652" xil_pn:in_ck="241965503661311506" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8050495414146450596" xil_pn:start_ts="1740508652">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="fourbit_sub_test_isim_beh.wdb"/>
       <outfile xil_pn:name="isim.cmd"/>
       <outfile xil_pn:name="isim.log"/>

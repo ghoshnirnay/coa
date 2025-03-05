@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ng_pc/Desktop/1300123058/testc/ad_sub_test_isim_beh.exe -prj /home/ng_pc/Desktop/1300123058/testc/ad_sub_test_beh.prj work.ad_sub_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ng_pc/Desktop/1300123058/testc/xor_rtl.vhd" into library work
+Parsing VHDL file "/home/ng_pc/Desktop/1300123058/testc/fa_rtl.vhd" into library work
+Parsing VHDL file "/home/ng_pc/Desktop/1300123058/testc/ad_sub_rtl.vhd" into library work
+Parsing VHDL file "/home/ng_pc/Desktop/1300123058/testc/ad_sub_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83432 KB
+Fuse CPU Usage: 1000 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity xor_rtl [xor_rtl_default]
+Compiling architecture behavioral of entity fa_rtl [fa_rtl_default]
+Compiling architecture behavioral of entity ad_sub_rtl [ad_sub_rtl_default]
+Compiling architecture behavior of entity ad_sub_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable /home/ng_pc/Desktop/1300123058/testc/ad_sub_test_isim_beh.exe
+Fuse Memory Usage: 649140 KB
+Fuse CPU Usage: 1010 ms
+GCC CPU Usage: 180 ms

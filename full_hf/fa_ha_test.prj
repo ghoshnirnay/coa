@@ -1,0 +1,3 @@
+vhdl work "../half_adder.vhd"
+vhdl work "../fa_ha_rtl.vhd"
+vhdl work "../fa_ha_test.vhd"
