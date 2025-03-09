@@ -1,0 +1,3 @@
+vhdl work "full_subtracto_rtl.vhd"
+vhdl work "fourbit_sub_hs_rtl.vhd"
+vhdl work "fourbit_sub_test.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_test_beh.prj" "work.fourbit_sub_test" 
