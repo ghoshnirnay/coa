@@ -1,4 +1,0 @@
-vhdl isim_temp "xor_rtl.vhd"
-vhdl isim_temp "fa_rtl.vhd"
-vhdl isim_temp "ad_sub_rtl.vhd"
-vhdl isim_temp "ad_sub_test.vhd"

@@ -1,5 +1,0 @@
-xst -intstyle ise -ifn "/home/ng_pc/Desktop/coa/and/and_rtl.xst" -ofn "/home/ng_pc/Desktop/coa/and/and_rtl.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 and_rtl.ngc and_rtl.ngd  
-map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o and_rtl_map.ncd and_rtl.ngd and_rtl.pcf 
-par -w -intstyle ise -ol high -mt off and_rtl_map.ncd and_rtl.ncd and_rtl.pcf 
-trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml and_rtl.twx and_rtl.ncd -o and_rtl.twr and_rtl.pcf 

@@ -1,4 +1,0 @@
-AR full_sub_hf_rtl behavioral /home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_rtl.vhd sub00/vhpl03 1740131601
-EN full_sub_hf_rtl NULL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/full_sub_hf_rtl.vhd sub00/vhpl02 1740131600
-AR half_subtractor_rtl behavioral /home/ng_pc/Desktop/1300123058/full_subtractort_hf/half_subtractor_rtl.vhd sub00/vhpl01 1740131599
-EN half_subtractor_rtl NULL /home/ng_pc/Desktop/1300123058/full_subtractort_hf/half_subtractor_rtl.vhd sub00/vhpl00 1740131598

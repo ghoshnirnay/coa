@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "/home/ng_pc/Desktop/1300123058/half_subtractor/half_subtractor_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/1300123058/half_subtractor/half_subtractor_test_beh.prj" "work.half_subtractor_test" 

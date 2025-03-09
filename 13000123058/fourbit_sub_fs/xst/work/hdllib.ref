@@ -1,4 +1,0 @@
-AR full_subtracto_rtl behavioral /home/ng_pc/Desktop/1300123058/fourbit_sub_fs/full_subtracto_rtl.vhd sub00/vhpl01 1740133975
-EN fourbit_sub_hs_rtl NULL /home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_hs_rtl.vhd sub00/vhpl02 1740133976
-AR fourbit_sub_hs_rtl behavioral /home/ng_pc/Desktop/1300123058/fourbit_sub_fs/fourbit_sub_hs_rtl.vhd sub00/vhpl03 1740133977
-EN full_subtracto_rtl NULL /home/ng_pc/Desktop/1300123058/fourbit_sub_fs/full_subtracto_rtl.vhd sub00/vhpl00 1740133974
