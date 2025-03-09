@@ -1,0 +1,35 @@
+[33mcommit 3946b755bab693783fb5ad9a26e760c665c95879[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nirnay Ghosh <ghoshnirnay2@gmail.com>
+Date:   Sun Mar 9 12:58:06 2025 +0530
+
+    Added directory 13000123058
+
+[33mcommit 8af03537ecc05fe6662f3c8d5391c75f2ea1bd46[m
+Author: ng_pc <ng_pc@ngpc.ngpc>
+Date:   Wed Mar 5 20:25:43 2025 +0530
+
+    Ignoring .wdb files
+
+[33mcommit 36249e3cfffc15340830a8a7172525423a31d17a[m
+Author: ng_pc <ng_pc@ngpc.ngpc>
+Date:   Wed Mar 5 20:18:59 2025 +0530
+
+    Added myfile.txt to my_directory
+
+[33mcommit 4f0c919db1686ce409a59b15bb25cbdd3df9fe6e[m
+Author: ng_pc <ng_pc@ngpc.ngpc>
+Date:   Sun Feb 23 12:12:58 2025 +0530
+
+    Your commit message
+
+[33mcommit 8a94a3292e34b90388ccba833e19031b5e7101f9[m
+Author: ng_pc <ng_pc@ngpc.ngpc>
+Date:   Sun Feb 23 10:57:04 2025 +0530
+
+    Initial commit
+
+[33mcommit 806c07221f5f42b5e817c12e8b3ed08168abfd3d[m
+Author: ng_pc <ng_pc@ngpc.myguest.virtualbox.org>
+Date:   Fri Feb 21 23:40:00 2025 +0530
+
+    Initial commit
