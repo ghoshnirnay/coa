@@ -1,0 +1,25 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Wed Feb 19 15:55:19 UTC 2025.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Wed Feb 19 15:55:19 UTC 2025
+INCREMENT ISE_WebPACK xilinxd 2026.02 permanent uncounted \
+310CD6B79E6A \
+VENDOR_STRING=ghoshnirnay2@gmail.com,ISE_WebPACK,software,permanent,_213308417_0_0_130 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=19-Feb-2025 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2026.02 892A9EF1901B COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead ChipscopePro \
+ChipScopePro_SIOTK HLS" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
