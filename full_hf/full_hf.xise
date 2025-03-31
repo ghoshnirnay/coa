@@ -14,10 +14,7 @@
 
   <version xil_pn:ise_version="14.7" xil_pn:schema_version="2"/>
 
-  <files>
-    <file xil_pn:name="../fa_ha_rtl.vhd" xil_pn:type="FILE_VHDL"/>
-    <file xil_pn:name="../half_adder.vhd" xil_pn:type="FILE_VHDL"/>
-  </files>
+  <files/>
 
   <properties>
     <property xil_pn:name="AES Initial Vector virtex6" xil_pn:value="" xil_pn:valueState="default"/>

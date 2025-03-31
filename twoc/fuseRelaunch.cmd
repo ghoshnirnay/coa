@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ng_pc/Desktop/13000123058/twoc/try_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/13000123058/twoc/try_test_beh.prj" "work.try_test" 
