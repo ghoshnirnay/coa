@@ -7,7 +7,8 @@ entity piso_rtl is
         clk  : in  STD_LOGIC;
         rst  : in  STD_LOGIC;
         s    : in  STD_LOGIC;  -- shift = 1, load = 0
-        qout : out STD_LOGIC_VECTOR(3 downto 0)  -- serial output
+        qout : out STD_LOGIC_VECTOR(3 downto 0);  -- serial output
+		  dout : out STD_LOGIC
     );
 end piso_rtl;
 
@@ -50,5 +51,6 @@ begin
 	 qout(2) <= q(2);
 	 qout(1) <= q(1);
     qout(0) <= q(0);	 
+	 dout<=q(3);
 	 
 end Behavioral;

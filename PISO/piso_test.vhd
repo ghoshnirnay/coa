@@ -2,9 +2,9 @@
 -- Company: 
 -- Engineer:
 --
--- Create Date:   15:13:20 04/11/2025
+-- Create Date:   17:19:20 04/11/2025
 -- Design Name:   
--- Module Name:   /home/ng_pc/PCC-CS492-CA/PISO/piso_test.vhd
+-- Module Name:   /home/ng_pc/Desktop/13000123058/PISO/piso_test.vhd
 -- Project Name:  PISO
 -- Target Device:  
 -- Tool versions:  
@@ -45,7 +45,8 @@ ARCHITECTURE behavior OF piso_test IS
          clk : IN  std_logic;
          rst : IN  std_logic;
          s : IN  std_logic;
-         qout : OUT  std_logic_vector(3 downto 0)
+         qout : OUT  std_logic_vector(3 downto 0);
+         dout : OUT  std_logic
         );
     END COMPONENT;
     
@@ -58,6 +59,7 @@ ARCHITECTURE behavior OF piso_test IS
 
  	--Outputs
    signal qout : std_logic_vector(3 downto 0);
+   signal dout : std_logic;
 
    -- Clock period definitions
    constant clk_period : time := 2 ps;
@@ -70,7 +72,8 @@ BEGIN
           clk => clk,
           rst => rst,
           s => s,
-          qout => qout
+          qout => qout,
+          dout => dout
         );
 
    -- Clock process definitions
@@ -86,7 +89,7 @@ BEGIN
    -- Stimulus process
    stim_proc: process
    begin		
-     -- Reset
+    -- Reset
         rst <= '1';
         wait for clk_period;
         rst <= '0';
@@ -100,7 +103,6 @@ BEGIN
         s <= '1';
 		  p <= "1111";
         wait for clk_period * 4;
-
    end process;
 
 END;

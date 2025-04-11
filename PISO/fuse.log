@@ -9,7 +9,7 @@ Parsing VHDL file "/home/ng_pc/Desktop/13000123058/PISO/piso_test.vhd" into libr
 Starting static elaboration
 Completed static elaboration
 Fuse Memory Usage: 83420 KB
-Fuse CPU Usage: 1000 ms
+Fuse CPU Usage: 1030 ms
 Compiling package standard
 Compiling package std_logic_1164
 Compiling architecture behavioral of entity d_ff [d_ff_default]
@@ -19,6 +19,6 @@ Time Resolution for simulation is 1ps.
 Waiting for 1 sub-compilation(s) to finish...
 Compiled 7 VHDL Units
 Built simulation executable /home/ng_pc/Desktop/13000123058/PISO/piso_test_isim_beh.exe
-Fuse Memory Usage: 649092 KB
-Fuse CPU Usage: 1020 ms
-GCC CPU Usage: 290 ms
+Fuse Memory Usage: 649096 KB
+Fuse CPU Usage: 1050 ms
+GCC CPU Usage: 180 ms

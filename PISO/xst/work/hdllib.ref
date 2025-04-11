@@ -1,6 +1,6 @@
 AR d_rtl behavioral /home/ng_pc/PCC-CS492-CA/D/d_rtl.vhd sub00/vhpl01 1744295999
-EN d_ff NULL /home/ng_pc/Desktop/13000123058/PISO/d_rtl.vhd sub00/vhpl04 1744365900
-AR piso_rtl behavioral /home/ng_pc/Desktop/13000123058/PISO/piso_rtl.vhd sub00/vhpl03 1744365903
-AR d_ff behavioral /home/ng_pc/Desktop/13000123058/PISO/d_rtl.vhd sub00/vhpl05 1744365901
+EN d_ff NULL /home/ng_pc/Desktop/13000123058/PISO/d_rtl.vhd sub00/vhpl04 1744371824
+AR piso_rtl behavioral /home/ng_pc/Desktop/13000123058/PISO/piso_rtl.vhd sub00/vhpl03 1744371827
+AR d_ff behavioral /home/ng_pc/Desktop/13000123058/PISO/d_rtl.vhd sub00/vhpl05 1744371825
 EN d_rtl NULL /home/ng_pc/PCC-CS492-CA/D/d_rtl.vhd sub00/vhpl00 1744295998
-EN piso_rtl NULL /home/ng_pc/Desktop/13000123058/PISO/piso_rtl.vhd sub00/vhpl02 1744365902
+EN piso_rtl NULL /home/ng_pc/Desktop/13000123058/PISO/piso_rtl.vhd sub00/vhpl02 1744371826

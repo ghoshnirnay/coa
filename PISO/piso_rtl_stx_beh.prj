@@ -1,2 +1,2 @@
-vhdl isim_temp "../D/d_rtl.vhd"
+vhdl isim_temp "d_rtl.vhd"
 vhdl isim_temp "piso_rtl.vhd"
