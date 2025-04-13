@@ -1,0 +1,3 @@
+vhdl isim_temp "../../../Downloads/D_rtl.vhd"
+vhdl isim_temp "../../../Downloads/sipo_rtl.vhd"
+vhdl isim_temp "../../../Downloads/sipo_test.vhd"

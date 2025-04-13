@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">50</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">54</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">56</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+</messages>
+

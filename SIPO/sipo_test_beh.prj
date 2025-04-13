@@ -1,0 +1,3 @@
+vhdl work "../../../Downloads/D_rtl.vhd"
+vhdl work "../../../Downloads/sipo_rtl.vhd"
+vhdl work "../../../Downloads/sipo_test.vhd"

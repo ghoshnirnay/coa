@@ -1,0 +1,3 @@
+vhdl isim_temp "D_rtl.vhd"
+vhdl isim_temp "PIPO_RTL.vhd"
+vhdl isim_temp "PIPO_TEST.vhd"

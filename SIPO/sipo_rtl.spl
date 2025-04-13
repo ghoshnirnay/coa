@@ -1,0 +1,7 @@
+[Inputs]
+Data
+Rst
+Clk
+[Outputs]
+=Q[3:0]=
+[BiDir]

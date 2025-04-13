@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/ng_pc/Desktop/13000123058/SISO/sipo_test_isim_beh.exe -prj /home/ng_pc/Desktop/13000123058/SISO/sipo_test_beh.prj work.sipo_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ng_pc/Desktop/13000123058/SISO/D_rtl.vhd" into library work
+Parsing VHDL file "/home/ng_pc/Desktop/13000123058/SISO/SISO_RTL.vhd" into library work
+Parsing VHDL file "/home/ng_pc/Desktop/13000123058/SISO/sipo_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 84612 KB
+Fuse CPU Usage: 1080 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity D_rtl [d_rtl_default]
+Compiling architecture behavioral of entity sipo_rtl [sipo_rtl_default]
+Compiling architecture behavior of entity sipo_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable /home/ng_pc/Desktop/13000123058/SISO/sipo_test_isim_beh.exe
+Fuse Memory Usage: 657004 KB
+Fuse CPU Usage: 1110 ms
+GCC CPU Usage: 160 ms

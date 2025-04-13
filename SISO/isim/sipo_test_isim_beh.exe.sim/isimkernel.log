@@ -1,0 +1,29 @@
+Command line:
+   sipo_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  38311
+
+Sun Apr 13 16:19:04 2025
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 184.103 Meg
+
+ Total Signals          : 35
+ Total Nets             : 15
+ Total Signal Drivers   : 15
+ Total Blocks           : 9
+ Total Primitive Blocks : 7
+ Total Processes        : 14
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 394
+Total Line Count : 29
+
+ Total Simulation Time: 0.56 sec
+
+ Current Memory Usage: 259.604 Meg
+
+Sun Apr 13 16:20:17 2025
+

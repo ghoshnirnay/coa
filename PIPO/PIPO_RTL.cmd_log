@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/13000123058/PIPO/PIPO_RTL.xst" -ofn "/home/ng_pc/Desktop/13000123058/PIPO/PIPO_RTL.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/13000123058/PIPO/PIPO_RTL.xst" -ofn "/home/ng_pc/Desktop/13000123058/PIPO/PIPO_RTL.syr" 
