@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/mnt/d/Desktop/13000123057/alu/alu_rtl.xst" -ofn "/mnt/d/Desktop/13000123057/alu/alu_rtl.syr" 
