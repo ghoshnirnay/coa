@@ -1,0 +1,2 @@
+vhdl isim_temp "../flipflops/d_rtl.vhd"
+vhdl isim_temp "../flipflops/D_test.vhd"

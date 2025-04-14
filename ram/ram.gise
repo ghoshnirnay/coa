@@ -50,6 +50,7 @@
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1744645179" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1744645179">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1744645567" xil_pn:in_ck="-7858787359370069840" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1744645567">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -97,6 +98,7 @@
     </transform>
     <transform xil_pn:end_ts="1744645142" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1744645142">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1744645142" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="2138477119301006550" xil_pn:start_ts="1744645142">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -125,6 +127,7 @@
     <transform xil_pn:end_ts="1744645147" xil_pn:in_ck="179259417495526369" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="7823436986773088122" xil_pn:start_ts="1744645142">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
       <outfile xil_pn:name=".lso"/>
       <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
       <outfile xil_pn:name="ram_rtl.lso"/>

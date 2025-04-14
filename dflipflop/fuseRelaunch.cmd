@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/mnt/d/Desktop/coa/dflipflop/D_test_isim_beh.exe" -prj "/mnt/d/Desktop/coa/dflipflop/D_test_beh.prj" "work.D_test" 
