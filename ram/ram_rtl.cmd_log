@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/mnt/d/Desktop/coa/ram/ram_rtl.xst" -ofn "/mnt/d/Desktop/coa/ram/ram_rtl.syr" 

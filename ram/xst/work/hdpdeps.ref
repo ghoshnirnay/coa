@@ -1,0 +1,6 @@
+V3 3
+FL /mnt/d/Desktop/coa/ram/ram_rtl.vhd 2025/04/14.21:08:17 P.20131013
+EN work/ram_rtl 1744645145 FL /mnt/d/Desktop/coa/ram/ram_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ram_rtl/Behavioral 1744645146 \
+      FL /mnt/d/Desktop/coa/ram/ram_rtl.vhd EN work/ram_rtl 1744645145
