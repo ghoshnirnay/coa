@@ -1,0 +1,5 @@
+set -tmpdir "/mnt/d/Desktop/coa/jkflipflop/xst/projnav.tmp"
+set -xsthdpdir "/mnt/d/Desktop/coa/jkflipflop/xst"
+elaborate
+-ifn jk_rtl.prj
+-ifmt mixed

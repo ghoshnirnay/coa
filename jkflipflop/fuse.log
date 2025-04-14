@@ -1,0 +1,24 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /mnt/d/Desktop/coa/jkflipflop/jk_test_isim_beh.exe -prj /mnt/d/Desktop/coa/jkflipflop/jk_test_beh.prj work.jk_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/mnt/d/Desktop/coa/jkflipflop/../flipflops/jk_rtl.vhd" into library work
+Parsing VHDL file "/mnt/d/Desktop/coa/jkflipflop/../flipflops/jk_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 84620 KB
+Fuse CPU Usage: 1000 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity jk_rtl [jk_rtl_default]
+Compiling architecture behavior of entity jk_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable /mnt/d/Desktop/coa/jkflipflop/jk_test_isim_beh.exe
+Fuse Memory Usage: 1181264 KB
+Fuse CPU Usage: 1080 ms
+GCC CPU Usage: 1860 ms
