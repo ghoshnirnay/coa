@@ -1,0 +1,6 @@
+V3 3
+FL /mnt/d/Desktop/coa/tflipflop/t_rtl.vhd 2025/04/14.21:47:17 P.20131013
+EN work/t_rtl 1744647455 FL /mnt/d/Desktop/coa/tflipflop/t_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/t_rtl/Behavioral 1744647456 \
+      FL /mnt/d/Desktop/coa/tflipflop/t_rtl.vhd EN work/t_rtl 1744647455

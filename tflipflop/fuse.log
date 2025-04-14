@@ -1,0 +1,22 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /mnt/d/Desktop/coa/tflipflop/t_test_isim_beh.exe -prj /mnt/d/Desktop/coa/tflipflop/t_test_beh.prj work.t_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/mnt/d/Desktop/coa/tflipflop/t_rtl.vhd" into library work
+Parsing VHDL file "/mnt/d/Desktop/coa/tflipflop/t_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83432 KB
+Fuse CPU Usage: 960 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity t_rtl [t_rtl_default]
+Compiling architecture behavior of entity t_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable /mnt/d/Desktop/coa/tflipflop/t_test_isim_beh.exe
+Fuse Memory Usage: 1173360 KB
+Fuse CPU Usage: 1010 ms
+GCC CPU Usage: 570 ms
