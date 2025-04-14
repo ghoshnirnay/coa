@@ -1,0 +1,2 @@
+vhdl work "../flipflops/sr_rtl.vhd"
+vhdl work "../flipflops/sr_test.vhd"

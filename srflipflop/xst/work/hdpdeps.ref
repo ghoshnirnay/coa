@@ -1,0 +1,7 @@
+V3 3
+FL /mnt/d/Desktop/coa/flipflops/sr_rtl.vhd 2025/04/14.15:14:44 P.20131013
+EN work/sr_rtl 1744646567 FL /mnt/d/Desktop/coa/flipflops/sr_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sr_rtl/Behavioral 1744646568 \
+      FL /mnt/d/Desktop/coa/flipflops/sr_rtl.vhd EN work/sr_rtl 1744646567
