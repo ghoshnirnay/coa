@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "/mnt/d/Desktop/coa/tflipflop/t_test_isim_beh.exe" -prj "/mnt/d/Desktop/coa/tflipflop/t_test_beh.prj" "work.t_test" 
+-intstyle "ise" -incremental -o "/home/ng_pc/Desktop/13000123058/tflipflop/t_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/13000123058/tflipflop/t_test_beh.prj" "work.t_test" 

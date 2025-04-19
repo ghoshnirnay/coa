@@ -1,0 +1,2 @@
+vhdl work "demux_rtl.vhd"
+vhdl work "demux_test.vhd"

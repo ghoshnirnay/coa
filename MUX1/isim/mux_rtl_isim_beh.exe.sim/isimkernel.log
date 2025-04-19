@@ -1,0 +1,29 @@
+Command line:
+   mux_rtl_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  45799
+
+Sun Apr 20 01:14:32 2025
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 184.005 Meg
+
+ Total Signals          : 3
+ Total Nets             : 12
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 372
+Total Line Count : 10
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 259.506 Meg
+
+Sun Apr 20 01:14:38 2025
+

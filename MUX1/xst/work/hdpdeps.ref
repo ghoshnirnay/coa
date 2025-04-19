@@ -1,0 +1,12 @@
+V3 7
+FL /home/ng_pc/Desktop/13000123058/MUX1/mux_rtl.vhd 2025/03/30.10:19:39 P.20131013
+EN work/mux_rtl 1745091487 FL /home/ng_pc/Desktop/13000123058/MUX1/mux_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux_rtl/Behavioral 1745091488 \
+      FL /home/ng_pc/Desktop/13000123058/MUX1/mux_rtl.vhd EN work/mux_rtl 1745091487
+FL /home/ng_pc/Desktop/13000123058/MUX1/mux_test.vhd 2025/03/30.10:19:40 P.20131013
+EN work/mux_test 0 FL /home/ng_pc/Desktop/13000123058/MUX1/mux_test.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux_test/behavior 0 \
+      FL /home/ng_pc/Desktop/13000123058/MUX1/mux_test.vhd EN work/mux_test 0 \
+      CP mux_rtl

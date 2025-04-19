@@ -1,5 +1,5 @@
 ISim log file
-Running: /mnt/d/Desktop/coa/tflipflop/t_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /mnt/d/Desktop/coa/tflipflop/t_test_isim_beh.wdb 
+Running: /home/ng_pc/Desktop/13000123058/tflipflop/t_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ng_pc/Desktop/13000123058/tflipflop/t_test_isim_beh.wdb 
 ISim P.20131013 (signature 0xfbc00daa)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/13000123058/MUX1/mux_rtl.xst" -ofn "/home/ng_pc/Desktop/13000123058/MUX1/mux_rtl.syr" 

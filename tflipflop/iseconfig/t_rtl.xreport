@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2025-04-14T21:40:06</DateModified>
+  <DateModified>2025-04-20T00:49:52</DateModified>
   <ModuleName>t_rtl</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/mnt/d/Desktop/coa/tflipflop/iseconfig/t_rtl.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/mnt/d/Desktop/coa/tflipflop</ImplementationReportsDirectory>
+  <SavedFilePath>/home/ng_pc/Desktop/13000123058/tflipflop/iseconfig/t_rtl.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/ng_pc/Desktop/13000123058/tflipflop/</ImplementationReportsDirectory>
   <DateInitialized>2025-04-14T21:40:05</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
