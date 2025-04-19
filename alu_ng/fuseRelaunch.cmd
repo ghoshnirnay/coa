@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ng_pc/Desktop/13000123058/alu_ng/alu_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/13000123058/alu_ng/alu_test_beh.prj" "work.alu_test" 

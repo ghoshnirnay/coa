@@ -1,0 +1,7 @@
+V3 3
+FL /home/ng_pc/Desktop/13000123058/alu_ng/alu_rtl.vhd 2025/04/20.01:25:08 P.20131013
+EN work/alu_rtl 1745093525 FL /home/ng_pc/Desktop/13000123058/alu_ng/alu_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/alu_rtl/Behavioral 1745093526 \
+      FL /home/ng_pc/Desktop/13000123058/alu_ng/alu_rtl.vhd EN work/alu_rtl 1745093525

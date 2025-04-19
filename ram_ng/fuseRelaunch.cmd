@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ng_pc/Desktop/13000123058/ram_ng/ram_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/13000123058/ram_ng/ram_test_beh.prj" "work.ram_test" 
