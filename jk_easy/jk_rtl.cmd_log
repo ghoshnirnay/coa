@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/test/jk_rtl.xst" -ofn "/home/ng_pc/Desktop/test/jk_rtl.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/test/jk_rtl.xst" -ofn "/home/ng_pc/Desktop/test/jk_rtl.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/test/jk_rtl.xst" -ofn "/home/ng_pc/Desktop/test/jk_rtl.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/test/jk_rtl.xst" -ofn "/home/ng_pc/Desktop/test/jk_rtl.syr" 

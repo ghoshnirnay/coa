@@ -1,0 +1,3 @@
+vhdl work "jk_rtl.vhd"
+vhdl work "updown_rtl.vhd"
+vhdl work "test.vhd"
