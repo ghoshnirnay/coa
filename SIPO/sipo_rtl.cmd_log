@@ -1,3 +1,4 @@
 vhdtdtfi -lib work ../../../Downloads/D_rtl.vhd -lib work ../../../Downloads/sipo_rtl.vhd -prj SIPO -o sipo_rtl.spl -module sipo_rtl -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
 spl2sym -intstyle ise -family spartan3 sipo_rtl.spl /home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.sym 
 xst -intstyle ise -ifn "/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.xst" -ofn "/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.syr" 
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.xst" -ofn "/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.syr" 

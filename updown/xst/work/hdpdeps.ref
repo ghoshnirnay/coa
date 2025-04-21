@@ -1,0 +1,14 @@
+V3 7
+FL /home/ng_pc/Desktop/13000123058/updown/jk_rtl.vhd 2025/04/21.20:58:57 P.20131013
+EN work/jk_rtl 1745249493 FL /home/ng_pc/Desktop/13000123058/updown/jk_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/jk_rtl/Behavioral 1745249494 \
+      FL /home/ng_pc/Desktop/13000123058/updown/jk_rtl.vhd EN work/jk_rtl 1745249493
+FL /home/ng_pc/Desktop/13000123058/updown/updown_rtl.vhd 2025/04/21.20:58:59 P.20131013
+EN work/udcounter_rtl 1745249495 \
+      FL /home/ng_pc/Desktop/13000123058/updown/updown_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/udcounter_rtl/Behavioral 1745249496 \
+      FL /home/ng_pc/Desktop/13000123058/updown/updown_rtl.vhd \
+      EN work/udcounter_rtl 1745249495 CP jk_rtl

@@ -1,0 +1,3 @@
+vhdtdtfi -lib work D_rtl.vhd -prj SIPO -o D_rtl.spl -module D_rtl -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 D_rtl.spl /home/ng_pc/Desktop/13000123058/SIPO/D_rtl.sym 
+vhdtdtfi -prj SIPO -o /home/ng_pc/Desktop/13000123058/SIPO/D_rtl.tfi -module D_rtl -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work D_rtl.vhd 

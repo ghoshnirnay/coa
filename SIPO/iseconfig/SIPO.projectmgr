@@ -10,13 +10,13 @@
          <ClosedNode>/sipo_rtl - Behavioral |home|ng_pc|Downloads|sipo_rtl.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>sipo_test - behavior (/home/ng_pc/Desktop/13000123058/SIPO/sipo_test.vhd)</SelectedItem>
+         <SelectedItem>DFF1 - D_rtl - Behavioral (/home/ng_pc/Desktop/13000123058/SIPO/D_rtl.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000157000000020000000000000000000000000200000064ffffffff000000810000000300000002000001570000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000167000000020000000000000000000000000200000064ffffffff000000810000000300000002000001670000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>sipo_test - behavior (/home/ng_pc/Desktop/13000123058/SIPO/sipo_test.vhd)</CurrentItem>
+      <CurrentItem>DFF1 - D_rtl - Behavioral (/home/ng_pc/Desktop/13000123058/SIPO/D_rtl.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -24,13 +24,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e3000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e30000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -63,13 +63,13 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>View RTL Schematic</SelectedItem>
+         <SelectedItem>View HDL Instantiation Template</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f20000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>View RTL Schematic</CurrentItem>
+      <CurrentItem>View HDL Instantiation Template</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
       <ClosedNodes>

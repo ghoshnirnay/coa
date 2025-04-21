@@ -5,16 +5,28 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">50</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sipo_rtl</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.vhd</arg>&quot;.
 </msg>
 
-<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sipo_rtl/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.vhd</arg>&quot;.
 </msg>
 
-<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">54</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/D_rtl</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Downloads/D_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/SIPO/D_rtl.vhd</arg>&quot;.
 </msg>
 
-<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Downloads/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">56</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/D_rtl/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Downloads/D_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/SIPO/D_rtl.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">50</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">54</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/ng_pc/Desktop/13000123058/SIPO/sipo_rtl.vhd</arg>&quot; line <arg fmt="%d" index="2">56</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qbar</arg>&apos; of component &apos;<arg fmt="%s" index="4">D_rtl</arg>&apos;.
 </msg>
 
 </messages>

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ng_pc/Desktop/13000123058/updown/udcounter_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/13000123058/updown/udcounter_test_beh.prj" "work.udcounter_test" 

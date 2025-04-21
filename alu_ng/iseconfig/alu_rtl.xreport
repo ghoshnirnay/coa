@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2025-04-20T01:41:55</DateModified>
+  <DateModified>2025-04-20T10:44:55</DateModified>
   <ModuleName>alu_rtl</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/ng_pc/Desktop/13000123058/alu_ng/iseconfig/alu_rtl.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/ng_pc/Desktop/13000123058/alu_ng</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/ng_pc/Desktop/13000123058/alu_ng/</ImplementationReportsDirectory>
   <DateInitialized>2025-04-20T01:41:42</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

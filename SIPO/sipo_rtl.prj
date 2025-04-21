@@ -1,2 +1,2 @@
-vhdl work "../../../Downloads/D_rtl.vhd"
-vhdl work "../../../Downloads/sipo_rtl.vhd"
+vhdl work "D_rtl.vhd"
+vhdl work "sipo_rtl.vhd"

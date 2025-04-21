@@ -2,12 +2,12 @@ Command line:
    PIPO_TEST_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  41485
+     -socket  46809
 
-Sun Apr 13 16:38:09 2025
+Mon Apr 21 20:28:55 2025
 
 
- Elaboration Time: 0 sec
+ Elaboration Time: 0.03 sec
 
  Current Memory Usage: 184.103 Meg
 
@@ -21,9 +21,9 @@ Sun Apr 13 16:38:09 2025
  Total Scalar Nets and Variables : 397
 Total Line Count : 33
 
- Total Simulation Time: 0.56 sec
+ Total Simulation Time: 0.65 sec
 
  Current Memory Usage: 259.604 Meg
 
-Sun Apr 13 16:38:24 2025
+Mon Apr 21 20:29:23 2025
 
