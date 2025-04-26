@@ -1,0 +1,29 @@
+Command line:
+   updown_rtl_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56141
+
+Wed Apr 23 18:25:46 2025
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 184.013 Meg
+
+ Total Signals          : 42
+ Total Nets             : 33
+ Total Signal Drivers   : 27
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 27
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 393
+Total Line Count : 47
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 259.514 Meg
+
+Wed Apr 23 18:25:51 2025
+

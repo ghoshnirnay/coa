@@ -91,21 +91,21 @@ BEGIN
    stim_proc: process
    begin		
    S<='0';R<='0';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='0';R<='0';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='1';R<='0';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='1';R<='0';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='0';R<='1';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='0';R<='1';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='1';R<='1';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
 	S<='1';R<='1';Reset<='0';
-	wait for 1 ps;
+	wait for 2 ps;
    end process;
 
 END;

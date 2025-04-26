@@ -90,15 +90,15 @@ BEGIN
    stim_proc: process
    begin		
      J<='0';K<='1';Reset<='0';
-	  wait for 1 ps;
+	  wait for 2 ps;
      J<='1';K<='0';Reset<='0';
 	  wait for 1 ps;
 	  J<='1';K<='1';Reset<='0';
-	  wait for 1 ps;
+	  wait for 2 ps;
      J<='1';K<='1';Reset<='0';
-	  wait for 1 ps;
+	  wait for 2 ps;
 	   J<='0';K<='0';Reset<='0';
-	  wait for 1 ps;
+	  wait for 2 ps;
    end process;
 
 END;

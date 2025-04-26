@@ -87,9 +87,9 @@ BEGIN
    stim_proc: process
    begin		
      D<='0';Reset<='0';
-	  wait for 1 ps;
+	  wait for 2 ps;
      D<='1';Reset<='0';
-	  wait for 1 ps;
+	  wait for 2 ps;
    end process;
 
 END;

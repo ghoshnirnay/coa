@@ -1,12 +1,16 @@
-V3 7
+V3 9
+FL /home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd 2025/04/21.22:07:53 P.20131013
+EN work/jk_rtl 1745257246 \
+      FL /home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/jk_rtl/Behavioral 1745257247 \
+      FL /home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd EN work/jk_rtl 1745257246
+FL /home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd 2025/04/21.23:04:10 P.20131013
+EN work/updown_rtl 1745257248 \
+      FL /home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/updown_rtl/Behavioral 1745257249 \
+      FL /home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd \
+      EN work/updown_rtl 1745257248 CP jk_rtl
 FL /home/ng_pc/Desktop/test/jk_rtl.vhd 2025/04/21.22:07:53 P.20131013
-EN work/jk_rtl 1745256854 FL /home/ng_pc/Desktop/test/jk_rtl.vhd \
-      PB ieee/std_logic_1164 1381692176
-AR work/jk_rtl/Behavioral 1745256855 \
-      FL /home/ng_pc/Desktop/test/jk_rtl.vhd EN work/jk_rtl 1745256854
 FL /home/ng_pc/Desktop/test/updown_rtl.vhd 2025/04/21.23:04:10 P.20131013
-EN work/updown_rtl 1745256856 FL /home/ng_pc/Desktop/test/updown_rtl.vhd \
-      PB ieee/std_logic_1164 1381692176
-AR work/updown_rtl/Behavioral 1745256857 \
-      FL /home/ng_pc/Desktop/test/updown_rtl.vhd EN work/updown_rtl 1745256856 \
-      CP jk_rtl

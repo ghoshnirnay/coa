@@ -1,0 +1,29 @@
+Command line:
+   udcounter_rtl_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51611
+
+Mon Apr 21 23:10:04 2025
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 184.103 Meg
+
+ Total Signals          : 42
+ Total Nets             : 33
+ Total Signal Drivers   : 27
+ Total Blocks           : 8
+ Total Primitive Blocks : 7
+ Total Processes        : 27
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 411
+Total Line Count : 46
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 259.604 Meg
+
+Mon Apr 21 23:10:09 2025
+

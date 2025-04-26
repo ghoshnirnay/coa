@@ -1,4 +1,4 @@
-AR jk_rtl behavioral /home/ng_pc/Desktop/test/jk_rtl.vhd sub00/vhpl01 1745256855
-AR updown_rtl behavioral /home/ng_pc/Desktop/test/updown_rtl.vhd sub00/vhpl03 1745256857
-EN updown_rtl NULL /home/ng_pc/Desktop/test/updown_rtl.vhd sub00/vhpl02 1745256856
-EN jk_rtl NULL /home/ng_pc/Desktop/test/jk_rtl.vhd sub00/vhpl00 1745256854
+AR jk_rtl behavioral /home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd sub00/vhpl01 1745257247
+AR updown_rtl behavioral /home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd sub00/vhpl03 1745257249
+EN updown_rtl NULL /home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd sub00/vhpl02 1745257248
+EN jk_rtl NULL /home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd sub00/vhpl00 1745257246

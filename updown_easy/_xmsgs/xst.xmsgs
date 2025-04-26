@@ -5,6 +5,18 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/updown_rtl</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Desktop/test/updown_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/updown_rtl/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Desktop/test/updown_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/updown_easy/updown_rtl.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/jk_rtl</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Desktop/test/jk_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/jk_rtl/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ng_pc/Desktop/test/jk_rtl.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ng_pc/Desktop/13000123058/updown_easy/jk_rtl.vhd</arg>&quot;.
+</msg>
+
 <msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">q1bar&lt;3&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
 </msg>
 

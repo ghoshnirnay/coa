@@ -83,12 +83,10 @@ BEGIN
    -- Stimulus process
    stim_proc: process
    begin	
-	  reset <= '1';
-	  wait for 2 ps;
+	  reset<='0'; updown<='1';
+	  wait for 30 ps;
      reset<='0'; updown<='0';
-	  wait for 32 ps;
-		reset<='0'; updown<='1';
-	  wait for 32 ps;
+	  wait for 30 ps;
       wait;
    end process;
 
