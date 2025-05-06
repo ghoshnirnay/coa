@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ng_pc/Desktop/13000123058/fourbit_using_two_bit_comparator/four_bit_test_isim_beh.exe" -prj "/home/ng_pc/Desktop/13000123058/fourbit_using_two_bit_comparator/four_bit_test_beh.prj" "work.four_bit_test" 

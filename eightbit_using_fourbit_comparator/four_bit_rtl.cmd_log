@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ng_pc/Desktop/13000123058/eightbit_using_fourbit_comparator/four_bit_rtl.xst" -ofn "/home/ng_pc/Desktop/13000123058/eightbit_using_fourbit_comparator/four_bit_rtl.syr" 

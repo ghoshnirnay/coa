@@ -1,0 +1,2 @@
+vhdl work "twoc_rtl.vhd"
+vhdl work "fourbit_rtl.vhd"

@@ -1,0 +1,3 @@
+vhdl isim_temp "fourbit_rtl.vhd"
+vhdl isim_temp "eightbit_rtl.vhd"
+vhdl isim_temp "eight_bit_test.vhd"

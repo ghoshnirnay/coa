@@ -1,0 +1,2 @@
+vhdl work "fourbit_rtl.vhd"
+vhdl work "eightbit_rtl.vhd"
